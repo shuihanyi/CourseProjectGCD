@@ -1,6 +1,7 @@
 ======================
 #Getting and Cleaning Data Course Project
-======================
+
+
 This is a repository for the course project of the online course Getting and Cleaning Data from Coursera.
 
 The purpose of this project is to collect, work with, and clean a data set, thereby creating a tidy data that can be used for later analysis.
@@ -15,6 +16,8 @@ Here are the data for the project:
 
 For more information about the original dataset please refer to following link:
 <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
+
+
 ===============================
 
 ### Files contained in this repo
@@ -34,10 +37,10 @@ For more information about the original dataset please refer to following link:
 
 2. `TidyData.txt`
 
-The tidy data set created through above steps is stored as a txt file.
+	The tidy data set created through above steps is stored as a txt file.
 
 3. `CodeBook.md`
-Detailed info about the new tidy data set can be found in this file, which provides variable names and corresponding explanations.
+	Detailed info about the new tidy data set can be found in this file, which provides variable names and corresponding explanations.
 
 
 ===============================
